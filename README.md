@@ -1,7 +1,7 @@
 # Theta-Model-and-Box-Cox-Research
 ### ENHANCING THE THETA MODEL AND SEQUENTIAL TIME SERIES PREDICTION TECHNIQUES AND APPLICATIONS TO ECONOMETRIC FACTOR MODELING
 
-This is on going research with NJIT Prof. Steve Taylor. I contributed the Python code for the research.
+This is on going research with NJIT Prof. Steve Taylor. I contributed the Python code for the research. This started as my Masters Project course at NJIT.
 
 This research to observe how data transformations can increase Theta forecasting model is still work in progress. So far, I recreated the Theta forecasting model and performances by finding the optimum lambda for the Box Cox transformations.
 
